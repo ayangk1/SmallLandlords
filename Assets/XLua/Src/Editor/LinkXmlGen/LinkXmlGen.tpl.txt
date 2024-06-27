@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <%
 require "TemplateCommon"
 %>
@@ -10,4 +11,18 @@ require "TemplateCommon"
 		<%end)%>
 	</assembly>
 <%end)%>
+=======
+<%
+require "TemplateCommon"
+%>
+
+<linker>
+<%ForEachCsList(assembly_infos, function(assembly_info)%>
+	<assembly fullname="<%=assembly_info.FullName%>">
+	    <%ForEachCsList(assembly_info.Types, function(type)
+		%><type fullname="<%=type:ToString()%>" preserve="all"/>
+		<%end)%>
+	</assembly>
+<%end)%>
+>>>>>>> fa1842a525d3b9d639306928e3905e7d24fbfd66
 </linker>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fileFormatVersion: 2
 guid: ae16c73aad9a21a44aef65decb7e4928
 timeCreated: 1481620508
@@ -6,3 +7,13 @@ TextScriptImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+fileFormatVersion: 2
+guid: ae16c73aad9a21a44aef65decb7e4928
+timeCreated: 1481620508
+licenseType: Pro
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> fa1842a525d3b9d639306928e3905e7d24fbfd66

@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json",
+=======
+>>>>>>> fa1842a525d3b9d639306928e3905e7d24fbfd66
     "m_Dictionary": {
         "m_DictionaryValues": []
     }

@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Landlord.unity
+    guid: a9ad0572cee5ad64b89b8a93cfe4abe2
+=======
   m_Scenes: []
+>>>>>>> fa1842a525d3b9d639306928e3905e7d24fbfd66
   m_configObjects: {}
